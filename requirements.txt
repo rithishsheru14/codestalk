@@ -1,0 +1,6 @@
+Flask
+Gunicorn
+requests
+bs4
+selenium
+google-generativeai
